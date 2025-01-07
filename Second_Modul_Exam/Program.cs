@@ -1,4 +1,4 @@
-﻿namespace SecondModul_Exam
+﻿namespace Second_Modul_Exam
 {
     internal class Program
     {
